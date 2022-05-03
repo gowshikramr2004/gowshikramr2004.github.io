@@ -1,0 +1,30 @@
+.donate{
+position: relative;
+left: 150px;
+height: fit-content;
+margin: 20px  20px 20px 20px ;
+}
+body{
+    background-color: #F1DDBF;
+}
+h1{
+    font-family: sans-serif;
+}
+#bod{
+    background-color:#FF8C32;
+    padding: 20px;
+    margin: 20em 20em 20em ;
+}
+.btn{
+    background-color: #D82148;
+    transition: 0.3s;
+   
+  
+    
+}
+.logo{
+
+ height: 20px;
+ position: relative;
+ padding-left: 2px;
+}
